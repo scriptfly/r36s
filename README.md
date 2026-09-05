@@ -18,3 +18,5 @@ Fortunately, RetroArch provides a dedicated option for configuring DSP effects. 
 The equalizer profile is now active and filters out low frequencies from the audio output. You should no longer hear most of the crackling.
 
 > Note: This configuration applies only to the specific RetroArch instance where it was created. Repeat the steps above for both RetroArch and RetroArch32.
+
+> Note: This fix does not resolve crackling sounds in the EmulationStation GUI, it works only for games. If you experience severe audio issues in ES GUI, I recommend disabling sounds in GUI completely.
