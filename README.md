@@ -6,7 +6,7 @@ The fix was developed for my G80CA-MB V1.3-20251212 clone, which has a low-quali
 
 Fortunately, RetroArch provides a dedicated option for configuring DSP effects. This can be used to filter out low frequencies from the audio output and eliminate the crackling noise.
 
-### Instalation
+### Installation
 
 1. Download the HighPassFilter.dsp file - [link](https://github.com/scriptfly/r36s/blob/main/HighPassFilter.dsp).
 2. Put downloaded .dsp file into **/home/ark/.config/retroarch/filters/audio/** and **/home/ark/.config/retroarch32/filters/audio/** folders on your dArkOSRE SD card.
