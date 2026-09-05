@@ -8,7 +8,7 @@ Fortunately, RetroArch provides a dedicated option for configuring DSP effects. 
 
 ### Instalation
 
-1. Download the HighPassFilter.dsp file - [download](https://github.com/scriptfly/r36s).
+1. Download the HighPassFilter.dsp file - [link](https://github.com/scriptfly/r36s/blob/main/HighPassFilter.dsp).
 2. Put downloaded .dsp file into **/home/ark/.config/retroarch/filters/audio/** and **/home/ark/.config/retroarch32/filters/audio/** folders on your dArkOSRE SD card.
 3. Boot the system
 4. Launch a game, open the RetroArch Quick Menu (typically via Select + X or Fn + X), press B (back) and navigate to Settings > Audio > DSP Plugins.
